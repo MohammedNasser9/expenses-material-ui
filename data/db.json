@@ -1,0 +1,69 @@
+{
+  "myData": [
+    {
+      "id": "f1fd",
+      "title": "Buy a laptop",
+      "amount": 750
+    },
+    {
+      "id": "48f9",
+      "title": "Have dinner",
+      "amount": 70
+    },
+    {
+      "id": "d93e",
+      "title": "Book flight ticket",
+      "amount": 320
+    },
+    {
+      "id": "9c42",
+      "title": "Gym subscription",
+      "amount": 50
+    },
+    {
+      "id": "11aa",
+      "title": "Buy groceries",
+      "amount": 200
+    },
+    {
+      "id": "22bb",
+      "title": "Car fuel",
+      "amount": 400
+    },
+    {
+      "id": "33cc",
+      "title": "Netflix subscription",
+      "amount": 15
+    },
+    {
+      "id": "44dd",
+      "title": "Sell old phone",
+      "amount": -150
+    },
+    {
+      "id": "55ee",
+      "title": "Gift for friend",
+      "amount": 80
+    },
+    {
+      "id": "66ff",
+      "title": "Online course",
+      "amount": 120
+    },
+    {
+      "id": "10jj",
+      "title": "Freelance payment",
+      "amount": -500
+    },
+    {
+      "id": "11kk",
+      "title": "Coffee with friends",
+      "amount": 40
+    },
+    {
+      "id": "13mm",
+      "title": "Sell old bike",
+      "amount": -300
+    }
+  ]
+}
