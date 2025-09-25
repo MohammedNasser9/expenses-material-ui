@@ -1,13 +1,35 @@
-# React + Vite
+# 💰 Expenses Tracker (React + Vite + Material UI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **expenses tracker app** built with **React, Vite, and Material UI**.  
+This project helps users to add, track, and manage their daily transactions in an elegant and responsive UI.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Expenses Material UI on Vercel](https://expenses-material-ui.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Add new transactions with title and amount
+- Responsive UI using **Material UI**
+- Styled buttons with **@emotion/styled**
+- Input adornments (💲 + icons)
+- Alerts and validation for inputs
+- Ready for API integration (or local storage)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# expenses-material-ui
+---
+
+## 🛠️ Tech Stack
+- **React 18**
+- **Vite**
+- **Material UI (MUI)**
+- **Emotion Styled**
+- **TailwindCSS (optional utility classes)**
+
+---
+
+## 📦 Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/MohammedNasser9/expenses-material-ui.git
+cd expenses-material-ui
+npm install
